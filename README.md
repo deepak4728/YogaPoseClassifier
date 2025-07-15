@@ -1,1 +1,1 @@
-# YogaPoseClassifier
+# YogaPoseClassifier - Neural Network Project
